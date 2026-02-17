@@ -2,11 +2,9 @@
 
 <div align="center">
 
-## Backend Engineer · AI/ML Systems · Production Infrastructure
+### Backend Engineer building production-grade distributed systems
 
-🌐 [sumeetdube.in](https://sumeetdube.in)  
-💼 [LinkedIn](https://linkedin.com/in/sumeetdube)  
-📧 Sumeetdube7@gmail.com  
+🌐 [sumeetdube.in](https://sumeetdube.in) · 💼 [LinkedIn](https://linkedin.com/in/sumeetdube) · 📧 Sumeetdube7@gmail.com  
 
 </div>
 
@@ -16,12 +14,12 @@
 
 ### Parkomate Solutions — Multi-Tenant Valet Platform
 
-- Backend architecture supporting **1,000+ vehicle transactions per site per day**
-- Site-level data isolation across multiple deployments
-- Transaction-safe vehicle lifecycle management
-- Real-time state propagation across staff & admin clients
-- Flutter integration with on-device ML Kit (offline number plate scanning)
-- Linux VPS deployment with full infrastructure ownership
+- Backend architecture handling **1,000+ vehicle transactions per site per day**
+- Multi-location data isolation
+- Transaction-safe lifecycle management
+- Real-time state propagation across clients
+- Flutter integration with on-device ML Kit (offline ANPR)
+- Linux VPS deployment with infrastructure ownership
 
 Actively running in live production environments.
 
@@ -32,20 +30,19 @@ Actively running in live production environments.
 I build backend systems that operate in real production environments.
 
 I optimize for:
-- Systems that survive traffic spikes and fail predictably.
-- Code that remains debuggable at 2 AM.
-- Logic that prioritizes readability over cleverness.
+
+- Systems that survive traffic spikes and fail predictably  
+- Code that remains debuggable at 2 AM  
+- Logic that prioritizes readability over cleverness  
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗 Core Stack
 
-| Category | Stack |
-|:--|:--|
-| **Languages** | Java · Python · C++ · Node.js |
-| **Backend** | MySQL · REST APIs · Concurrent request handling |
-| **Infrastructure** | Docker · Linux VPS · Cloudflare Tunnel · NAS hosting |
-| **AI / ML** | PyTorch · VGG16 · ML Kit (on-device inference) |
+**Languages:** Java · Python · C++ · Node.js  
+**Systems:** MySQL · REST APIs · Concurrency · Linux  
+**Infrastructure:** Docker · VPS · Cloudflare Tunnel · NAS  
+**AI/ML:** PyTorch · VGG16 · ML Kit (on-device inference)
 
 ---
 
@@ -66,7 +63,7 @@ I optimize for:
 
 ---
 
-## 🕹️ Contribution Arcade
+## 🕹 Contribution Arcade
 
 ![Contribution Snake](https://raw.githubusercontent.com/dsumeet14/dsumeet14/output/github-contribution-grid-snake-dark.svg)
 
