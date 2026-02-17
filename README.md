@@ -15,7 +15,7 @@
 ---
 
 ### 🧠 Engineering Philosophy
-> *"I believe in engineering that prioritizes **clarity over complexity** and **impact over output**. If future-me can’t understand it at 2 AM, it’s not done."*
+> "I believe in engineering that prioritizes **clarity over complexity** and **impact over output**. If future-me can’t understand it at 2 AM, it’s not done."
 
 * **Production First:** Optimizing for systems that survive real users, not just local demos.
 * **Systems, Not Features:** Thinking in flows, states, and failure modes.
@@ -34,30 +34,30 @@
 
 ---
 
-### 📈 What I'm Working On
-* **Parkomate Solutions:** Architecting backend services handling **1,000+ vehicle transactions/day** with real-time state sync.
-* **AI Portfolio:** Developing an **AI Interview Simulation Bot** with session orchestration and response streaming.
-* **Research:** Exploring **EEG-based Eye State Detection** and **Computer-Aided Detection in Mammography**.
+### 📈 Professional Highlights
+* **Parkomate Solutions:** Architected backend services handling **1,000+ vehicle transactions/day** per site with real-time state synchronization.
+* **Scalable Architecture:** Designed multi-tenant operations for valet systems using **Node.js and MySQL**, implementing site-level data isolation.
+* **On-Device AI:** Developed a Flutter app with **ML Kit integration** for offline license plate scanning, drastically reducing latency and network dependency.
 
 ---
 
 ### 📂 Featured Projects
-* **[Personal Portfolio AI](https://sumeetdube.in/interview.html)**: Self-hosted AI chatbot on a personal NAS using Docker and Cloudflare.
-* **[Waste Classification](https://github.com/dsumeet14/Waste-Classification-using-VGG16)**: Deep learning image classifier to distinguish recyclable and organic waste using CNNs.
-* **[Flowchart Drawer](https://github.com/dsumeet14/Flowchart-Drawer)**: Python-based automation tool converting Excel data into logical PDF flowcharts.
+* **[Personal Portfolio AI](https://sumeetdube.in/interview.html)**: Self-hosted AI chatbot with session orchestration and response streaming. Hosted on a personal NAS using Docker and Cloudflare.
+* **[Flowchart Drawer](https://github.com/dsumeet14/Flowchart-Drawer)**: Automated Python pipeline converting Excel data into SQLite structures and PDF diagrams.
+* **[Waste Classification](https://github.com/dsumeet14/Waste-Classification-using-VGG16)**: CNN-based classifier distinguishing organic vs. recyclable waste using VGG16.
 
 ---
 
 ### 📜 Published Research
-* **Computer-Aided Detection in Mammography** (Presented at ICTТЕАН 2025)
-* **Machine Learning Models for EEG-Based Eye State Detection** (Presented at ICCIIoT 2023)
+* **Computer-Aided Detection in Mammography** — Presented at ICTТЕАН 2025.
+* **Machine Learning Models for EEG-Based Eye State Detection** — Presented at ICCIIoT 2023.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsumeet14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsumeet14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dsumeet14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff" height="150" alt="Sumeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsumeet14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff" height="150" alt="Sumeet's Top Languages" />
 </p>
 
 <p align="center">
