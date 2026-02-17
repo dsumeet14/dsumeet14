@@ -55,10 +55,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsumeet14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff" height="150" alt="Sumeet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsumeet14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff" height="150" alt="Sumeet's Top Languages" />
-</p>
+![Sumeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsumeet14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff)
+![Sumeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsumeet14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&text_color=ffffff)
 
 <p align="center">
   <i>"Spinning up NAS · Warming up AI · Charging Arcade 🎮"</i>
