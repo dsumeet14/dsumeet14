@@ -1,5 +1,9 @@
 <div align="center">
 
+# Hey, I'm Sumeet Dube 👋
+
+**Backend Engineer from Mumbai, building production-grade systems that handle real traffic.**
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sumeetdube.in-00ffc6?style=for-the-badge&labelColor=0f0f0f)](https://sumeetdube.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sumeetdube-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeetdube)
 [![Email](https://img.shields.io/badge/Email-Sumeetdube7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sumeetdube7@gmail.com)
@@ -14,8 +18,7 @@
 
 ---
 
-> I build backend systems that run in production — handling real traffic, real transactions, and real failures.
-> Currently engineering the backend platform at **Parkomate Solutions**, powering valet and parking operations across multiple live sites.
+I build backend systems that run in production — handling real traffic, real transactions, and real failures. Currently engineering the backend platform at **Parkomate Solutions**, powering valet and parking operations across multiple live sites. I self-host my own infrastructure on a personal NAS, and I'm always looking to go deeper into distributed systems and database internals.
 
 ---
 
