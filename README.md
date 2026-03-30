@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Sumeetdube7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sumeetdube7@gmail.com)
 
 <a href="https://sumeetdube.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=520&lines=Software+Developer;Backend+%7C+Frontend+%7C+Mobile+%7C+DevOps;Ideate+→+Architect+→+Build+→+Ship;Leading+Development+at+Parkomate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=520&lines=Software+Developer;Backend+%7C+Frontend+%7C+Mobile+%7C+DevOps;Ideate.+Architect.+Build.+Ship.;Leading+Development+at+Parkomate" alt="Typing SVG" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dsumeet14&color=00ffc6&style=flat-square&label=Profile+Views)
