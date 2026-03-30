@@ -2,14 +2,14 @@
 
 # Hey, I'm Sumeet Dube 👋
 
-**Backend Engineer from Mumbai, building production-grade systems that handle real traffic.**
+**Software Developer from Mumbai — I ideate, architect, build, and ship.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sumeetdube.in-00ffc6?style=for-the-badge&labelColor=0f0f0f)](https://sumeetdube.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sumeetdube-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeetdube)
 [![Email](https://img.shields.io/badge/Email-Sumeetdube7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sumeetdube7@gmail.com)
 
 <a href="https://sumeetdube.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Backend+Engineer;Building+Production-Grade+Systems;Multi-Tenant+Architecture;Self-Hosted+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=520&lines=Software+Developer;Backend+%7C+Frontend+%7C+Mobile+%7C+DevOps;Ideate+→+Architect+→+Build+→+Ship;Leading+Development+at+Parkomate" alt="Typing SVG" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dsumeet14&color=00ffc6&style=flat-square&label=Profile+Views)
@@ -18,20 +18,21 @@
 
 ---
 
-I build backend systems that run in production — handling real traffic, real transactions, and real failures. Currently engineering the backend platform at **Parkomate Solutions**, powering valet and parking operations across multiple live sites. I self-host my own infrastructure on a personal NAS, and I'm always looking to go deeper into distributed systems and database internals.
+I'm a Software Developer who works across the entire stack — backend, frontend, mobile apps, databases, and deployment. I don't just write code; I ideate products from scratch, design the architecture, decide the tech stack, and ship to production. Currently leading software development at **Parkomate Solutions**, where I built the entire platform end-to-end — from system design to live deployment across multiple sites. I also self-host my own infrastructure on a personal NAS because I like owning the full pipeline.
 
 ---
 
 ## 🚗 What I'm Building — Parkomate Solutions
 
-Designing and running the backend for a **multi-tenant valet management platform** that's live in production:
+Leading software development for a **multi-tenant valet management platform** — ideated the architecture, chose the tech stack, and built it end-to-end:
 
+- **System design from scratch** — designed the full architecture covering backend services, mobile app, database schema, and client-server communication
 - Architected for **1,000+ vehicle check-ins/check-outs per site per day** with concurrent client requests
 - **Site-level data isolation** — each location operates as an independent tenant with transactional guarantees
+- Built **REST APIs** managing the full vehicle lifecycle: authentication → check-in → status sync → check-out
 - Real-time state propagation across valet staff, admins, and customer-facing clients
-- REST APIs managing the full vehicle lifecycle: authentication → check-in → status sync → check-out
-- **Flutter mobile app** with on-device ML Kit for offline number plate recognition (zero network dependency for ANPR)
-- Deployed and maintained on Linux VPS — MySQL, Node.js process management, subdomain routing, the whole stack
+- Developed the **Flutter mobile app** with on-device ML Kit for offline number plate recognition (zero network dependency for ANPR)
+- **Deployed and maintaining** the full stack on Linux VPS — MySQL, Node.js, subdomain routing, process management
 
 ---
 
@@ -39,17 +40,20 @@ Designing and running the backend for a **multi-tenant valet management platform
 
 | Domain | Technologies |
 |---|---|
-| **Languages** | Java · Python · C++ · Node.js |
-| **Backend & Data** | MySQL · REST APIs · Concurrent Request Handling · Linux |
-| **Infrastructure** | Docker · VPS · Cloudflare Tunnel · Self-hosted NAS |
+| **Languages** | Java · Python · C++ · Node.js · PHP |
+| **Backend** | REST APIs · Concurrent Request Handling · MySQL · SQLite |
+| **Frontend & Web** | HTML · CSS · JavaScript |
 | **Mobile** | Flutter · ML Kit (on-device inference) |
+| **Infrastructure** | Linux · Docker · VPS · Cloudflare Tunnel · Self-hosted NAS |
 | **AI/ML** | PyTorch · VGG16 · CNN-based classifiers |
 
 ---
 
 ## 🧪 Notable Projects
 
-**🤖 [AI Interview Simulator](https://sumeetdube.in)** — Built a full-stack interview chatbot with backend session management, prompt orchestration, and response streaming. Self-hosted on a personal NAS with Docker + Cloudflare Tunnel. Try it live on my portfolio.
+**🤖 [AI Interview Simulator](https://sumeetdube.in)** — Full-stack interview chatbot with backend session management, prompt orchestration, response streaming, and a polished frontend. Self-hosted on a personal NAS with Docker + Cloudflare Tunnel. Try it live on my portfolio.
+
+**🌐 Freelance — Ayurom LLP** — Delivered a complete website end-to-end per client specs. Self-hosted on a NAS using Docker, managed domain migration, DNS, HTTPS, and Cloudflare Tunnel routing. Currently building a desktop app extension for their platform.
 
 **📊 Flowchart Drawer** — Python automation tool (built at DRDO) that reads structured Excel data, processes it through SQLite, and generates flowchart PDFs for process visualization.
 
