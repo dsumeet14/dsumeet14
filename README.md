@@ -4,12 +4,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sumeetdube-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeetdube)
 [![Email](https://img.shields.io/badge/Email-Sumeetdube7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sumeetdube7@gmail.com)
 
+<a href="https://sumeetdube.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Backend+Engineer;Building+Production-Grade+Systems;Multi-Tenant+Architecture;Self-Hosted+Infrastructure" alt="Typing SVG" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dsumeet14&color=00ffc6&style=flat-square&label=Profile+Views)
+
 </div>
 
-<h1 align="center">⚡ Booting SumeetDube.sh</h1>
-<h3 align="center">Backend Engineer · Building production-grade multi-tenant systems</h3>
-
-<br/>
+---
 
 > I build backend systems that run in production — handling real traffic, real transactions, and real failures.
 > Currently engineering the backend platform at **Parkomate Solutions**, powering valet and parking operations across multiple live sites.
@@ -56,10 +59,17 @@ Designing and running the backend for a **multi-tenant valet management platform
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dsumeet14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dsumeet14&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dsumeet14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+  <img alt="GitHub Stats" src="./profile/stats-dark.svg" width="49%" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+  <img alt="Top Languages" src="./profile/top-langs-dark.svg" width="41%" />
+</picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dsumeet14&theme=tokyonight&hide_border=true&background=0f0f0f&ring=00ffc6&fire=00ffc6&currStreakLabel=00ffc6" />
@@ -67,13 +77,13 @@ Designing and running the backend for a **multi-tenant valet management platform
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dsumeet14&theme=tokyonight&hide_border=true&background=0f0f0f&ring=00ffc6&fire=00ffc6&currStreakLabel=00ffc6" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dsumeet14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dsumeet14&layout=compact&theme=default&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsumeet14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=00ffc6" />
-</picture>
-
 </div>
+
+---
+
+## 📊 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dsumeet14&theme=tokyo-night&hide_border=true&bg_color=0f0f0f&color=00ffc6&line=00ffc6&point=ffffff&area=true&area_color=00ffc6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
